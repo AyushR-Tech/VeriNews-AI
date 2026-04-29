@@ -1,4 +1,4 @@
-# Fake News Detection System
+# VeriNews AI
 
 A **Flask web application** that classifies news as **real** or **fake** using a trained machine learning model.
 
