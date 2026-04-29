@@ -3,3 +3,5 @@ __pycache__/
 *.py[cod]
 .DS_Store
 .vscode/
+data/WELFake_Dataset.csv
+rf_fake_news_model.pkl
